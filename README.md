@@ -16,3 +16,12 @@ Explore the live dashboard here: **[Link to Online Reports Page](https://app.pow
 
 ![](CostcoDashboard3.png)
 
+### **Technology Stack**  
+- **Data Sources:** CSV.
+- **Tools:** Power BI, Power Query, DAX.
+
+
+## **Key Learnings**   
+- **Advanced Data Transformation:** Enhanced proficiency in Power Query for cleaning, merging, and transforming data.  
+- **DAX Proficiency:** Improved skills in creating complex measures for dynamic KPIs and insights.  
+- **Interactive Design:** Gained experience in building user-friendly, visually appealing dashboards with interactivity.  
