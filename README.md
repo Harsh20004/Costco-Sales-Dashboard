@@ -7,12 +7,12 @@ Explore the live dashboard here: **[Link to Online Reports Page](https://app.pow
 
 ## **Dashboard Screenshots**
 
-![](Costco.Dashboard1.png)
+![](Costco Dashboard1.png)
 
 ## interactive filters
 
-![](Costco.Dashboard2.png)
+![](Costco Dashboard2.png)
 
 
-![](Costco.Dashboard3.png)
+![](Costco Dashboard3.png)
 
