@@ -11,8 +11,8 @@ Explore the live dashboard here: **[Link to Online Reports Page](https://app.pow
 
 ## interactive filters
 
-![](Costco%20Dashboard2.png)
+![](CostcoDashboard2.png)
 
 
-![](Costco%20Dashboard3.png)
+![](CostcoDashboard3.png)
 
